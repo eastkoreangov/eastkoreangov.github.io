@@ -1,0 +1,10 @@
+body {
+  --bg-color: yellow;
+  background-color: yellow;
+}
+p {
+  color: red;
+}
+li {
+  color: red;
+}
